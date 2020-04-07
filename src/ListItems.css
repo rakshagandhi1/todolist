@@ -1,0 +1,28 @@
+.list {
+	color : black;
+	width : auto;
+	height:45px;
+	text-align : left;
+	font-family: italic;
+	background : red;
+}
+
+.removebtn {
+	border-radius:3px;
+	background-color:green;
+	margin-left:230px;
+	position: relative;
+    top: -45px;
+    width:auto;
+
+}
+
+.list p input {
+	background-color: transparent;
+	border:none;
+	width:300px;
+	font-weight:bold;
+}
+.list p input:focus {
+	outline:none;
+}
